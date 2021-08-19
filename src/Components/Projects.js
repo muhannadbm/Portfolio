@@ -9,7 +9,7 @@ const Projects = () => {
         <div className="single">
         <a href="test">
         <h4>Dogs image generator</h4> 
-        <img src={DogsGenerator} />
+        <img src={DogsGenerator} alt="Dogs Generator Project"/>
         <p>Dogs image generator is a website that generates random images of cute dogs</p>
         </a>
         </div>
