@@ -7,7 +7,7 @@ const Projects = () => {
         <div className="list">
 
         <div className="single">
-        <a href="test">
+        <a href="https://web-module-project-async-redux-topaz.vercel.app/">
         <h4>Dogs image generator</h4> 
         <img src={DogsGenerator} alt="Dogs Generator Project"/>
         <p>Dogs image generator is a website that generates random images of cute dogs</p>
